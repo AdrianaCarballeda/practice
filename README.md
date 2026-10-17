@@ -1,2 +1,7 @@
-# practice
-For practice and review assignments 
+# Interactive Productivity Dashboard
+This project is a web-based dashboard built for WEB-115 to demonstrate and practice with interactive JavaScript features.
+
+## TODO: Future Enhancements
+- [ ] Add a metric conversion tool.
+- [ ] Integrate a task list with array storage.
+- [ ] Add JavaScript logic for a live clock.
