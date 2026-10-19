@@ -54,3 +54,6 @@ BEGIN
         DISPLAY "Invalid conversion choice"
     END IF
 END
+
+## Magic Eight Ball
+The Magic Eight Ball is an interactive application that allows the user to type a yes/no question and click the Magic Eight Ball to receive a random response. The application uses JavaScript event listeners, conditional statements, an array of possible answers and the Math.random() method to select and display a response. The reset button allows the user to clear the current question and ask another one. 
